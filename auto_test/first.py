@@ -6,4 +6,5 @@ class car():
 if __name__ == '__main__':
     byd = car()
     print(byd.lunzi)
+    print(byd.driver)
     byd.run()
